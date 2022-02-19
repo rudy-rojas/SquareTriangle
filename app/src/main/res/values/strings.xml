@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SquareTriangle</string>
+    <string name="insert_number">Insert a number</string>
+    <string name="verify">Verify</string>
+</resources>
